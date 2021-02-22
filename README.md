@@ -5,6 +5,6 @@ The Gui was build with PySimpleGui - https://pypi.org/project/PySimpleGUI/#:~:te
 and the grade caculation was based on the formula provided here - https://www.rapidtables.com/calc/grade/grade-calculation.html
 
 UI
-![alt text]https://github.com/realPrashantBhandari/FinalGradeCalculator/blob/main/UI.JPG
+![alt text](https://github.com/realPrashantBhandari/FinalGradeCalculator/blob/main/UI.JPG?raw=true)
 
-![alt text]https://github.com/realPrashantBhandari/FinalGradeCalculator/blob/main/exampleRun.JPG
+![alt text](https://github.com/realPrashantBhandari/FinalGradeCalculator/blob/main/exampleRun.JPG?raw=true)
