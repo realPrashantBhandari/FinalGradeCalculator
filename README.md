@@ -3,3 +3,8 @@ A small python based program to calculate your current class grade and determine
 
 The Gui was build with PySimpleGui - https://pypi.org/project/PySimpleGUI/#:~:text=PySimpleGUI%20is%20a%20Python%20package,%22Elements%22%20in%20PySimpleGUI).
 and the grade caculation was based on the formula provided here - https://www.rapidtables.com/calc/grade/grade-calculation.html
+
+UI
+![alt text]https://github.com/realPrashantBhandari/FinalGradeCalculator/blob/main/UI.JPG
+
+![alt text]https://github.com/realPrashantBhandari/FinalGradeCalculator/blob/main/exampleRun.JPG
